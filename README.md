@@ -19,7 +19,7 @@ The LAMP stack—comprising Linux, Apache, MySQL, and PHP/Perl/Python—is a wid
 
 📢 Focus: [LAMP Stack Engineer](https://www.upwork.com/hire/lamp-freelancers/) 
 
-📢 Output: Successful Participant Can Earn By Doing LAMP Stack Engineering From Home
+📢 Output: Successful Participant Can Earn By Doing LAMP Stack Engineering freelancing From Home
 
 📢 Training Duration: 30 hours over one and a half months
 
