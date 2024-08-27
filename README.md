@@ -37,5 +37,5 @@ The LAMP stack—comprising Linux, Apache, MySQL, and PHP/Perl/Python—is a wid
 
 📢 Phase: Development (localhost) training. For Production training [DigitalOcean](https://try.digitalocean.com/freetrialoffer/) and any domain require.
 
-📢 Immediate assistance: Yes, If your mentor not sleeping you will get immediate assistance when any client knock you during training. 
+📢 Immediate assistance: Yes, If your mentor is not sleeping, you will promptly receive support whenever a client contacts you during training sessions.
 
