@@ -2,7 +2,7 @@
 ![Jekyll site CI](https://github.com/SchoolOfFreelancing/BackOffice/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/SchoolOfFreelancing/Freelancing-On-Linux/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/SchoolOfFreelancing/Freelancing-On-Linux/tree/main)
 
-## Freelancing On LAMP Stack Engineering
+## Freelancing on LAMP Stack Engineering
 ## AI-Powered Hands-on LAMP Stack Engineering Training for Freelance Success
 
 Our flexible and affordable LAMP Stack Engineering training empowers individuals to achieve success as freelancers.
