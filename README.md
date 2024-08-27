@@ -3,7 +3,7 @@
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/SchoolOfFreelancing/Freelancing-On-Linux/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/SchoolOfFreelancing/Freelancing-On-Linux/tree/main)
 
 ## Freelancing On LAMP Stack Engineering
-## AI-Enhanced LAMP Stack Engineer Training for Freelance Success
+## AI-Powered LAMP Stack Engineer Training for Freelance Success
 
 Our flexible and affordable LAMP Stack Engineering training empowers individuals to achieve success as freelancers.
 
@@ -58,16 +58,16 @@ Before enrolling, please ensure this training modules are aligned for level up y
 Pay using [PayPal](https://www.paypal.com/ncp/payment/J5F7BS5QZMWGJ) | [bKash](https://shop.bkash.com/school-of-freelancing018907576/pay/bdt31000/mT8noZ) | [Wise](https://www.wise.com/) 
 
 ## Training Pipeline
-[Session 09](https://docs.google.com/document/d/1a7YUcV_b3kxSz7_egMOh6e2VcM9cE0X4q8Rw7CRwNsQ/edit?usp=sharing) |
-[Session 10](https://docs.google.com/document/d/1RxQ2RRDnRac60MnZEFUkenbNvyHG9sMv2IrVajtRIm4/edit?usp=sharing) |
-[Session 11](https://docs.google.com/document/d/1A9YpgJVa1AuSIRCjOW6QvdEBZzmB9HQKgPrANSsz1H8/edit?usp=sharing) |
-[Session 12](https://docs.google.com/document/d/15wrZuqa7j2YOOT6YRqwCj33IcIvYrCHktiOIP0SI_P8/edit?usp=sharing) |
-[Session 13](https://docs.google.com/document/d/1yvnSm3bSsmBMBqimPHdh-9qBadA5Pj5zZ1qvKjU2epU/edit?usp=sharing) |
-[Session 14](https://docs.google.com/document/d/1iCH40SqEKg4MsadrEjlK2QdkZjYGSsP_EFTxDi7CPEc/edit?usp=sharing) |
-[Session 15](https://docs.google.com/document/d/1uuHGpmp01bla2fUSlblfqA9AQUJJeBAp3BL2-yESkMY/edit?usp=sharing) |
-[Session 16](https://docs.google.com/document/d/1nZn95BbcOTpgJlQNGCMWICGLdXojm3DEdG2aZOrYCxk/edit?usp=sharing) |
-[Session 17](https://docs.google.com/document/d/1qhr9CE262__1SWRIE6l3kIbiOSIU2QyGjCYjU85rLiQ/edit?usp=sharing) |
-[Session 18](https://docs.google.com/document/d/1TOfdEsGbqxzrzRc9gchotJZE0ejshFNR41QmR3iSETY/edit?usp=sharing) |
+[Session 01](https://docs.google.com/document/d/1a7YUcV_b3kxSz7_egMOh6e2VcM9cE0X4q8Rw7CRwNsQ/edit?usp=sharing) |
+[Session 02](https://docs.google.com/document/d/1RxQ2RRDnRac60MnZEFUkenbNvyHG9sMv2IrVajtRIm4/edit?usp=sharing) |
+[Session 03](https://docs.google.com/document/d/1A9YpgJVa1AuSIRCjOW6QvdEBZzmB9HQKgPrANSsz1H8/edit?usp=sharing) |
+[Session 04](https://docs.google.com/document/d/15wrZuqa7j2YOOT6YRqwCj33IcIvYrCHktiOIP0SI_P8/edit?usp=sharing) |
+[Session 05](https://docs.google.com/document/d/1yvnSm3bSsmBMBqimPHdh-9qBadA5Pj5zZ1qvKjU2epU/edit?usp=sharing) |
+[Session 06](https://docs.google.com/document/d/1iCH40SqEKg4MsadrEjlK2QdkZjYGSsP_EFTxDi7CPEc/edit?usp=sharing) |
+[Session 07](https://docs.google.com/document/d/1uuHGpmp01bla2fUSlblfqA9AQUJJeBAp3BL2-yESkMY/edit?usp=sharing) |
+[Session 08](https://docs.google.com/document/d/1nZn95BbcOTpgJlQNGCMWICGLdXojm3DEdG2aZOrYCxk/edit?usp=sharing) |
+[Session 09](https://docs.google.com/document/d/1qhr9CE262__1SWRIE6l3kIbiOSIU2QyGjCYjU85rLiQ/edit?usp=sharing) |
+[Session 10](https://docs.google.com/document/d/1TOfdEsGbqxzrzRc9gchotJZE0ejshFNR41QmR3iSETY/edit?usp=sharing) |
 
 We recommend that trainees prioritize learning over earning until all sessions are completed. Earning requests will be addressed after completing Session 10. Trainees must complete at least one job within one month to start earning from this training 🚀
 
