@@ -1,2 +1,2 @@
-# LAMP-Stack-Engineer-Training
+# LAMP Stack Engineer Training
 AI-Enhanced LAMP Stack Engineer Training for Freelance Success
