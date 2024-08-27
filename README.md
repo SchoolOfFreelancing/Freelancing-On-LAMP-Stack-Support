@@ -37,8 +37,10 @@ The LAMP stack—comprising Linux, Apache, MySQL, and PHP/Perl/Python—is a wid
 
 📢 Phase: Development (localhost) training. For Production training [DigitalOcean](https://try.digitalocean.com/freetrialoffer/) and any domain require.
 
+📢 Immediate assistance: Yes, Prompt assistance is available from your mentor whenever you receive a client inquiry during training.
 
 ## Training Prerequisite
+
 🏋️ A minimum of two years of experience with computer usage is required.
 
 👓 Proficiency in both spoken and written English, along with strong typing skills, is required.
@@ -75,7 +77,6 @@ We recommend that trainees prioritize learning over earning until all sessions a
 [Telegram](https://t.me/SchoolOfFreelancingTraining) 
 
 
-📢 Immediate assistance: Yes, Prompt assistance is available from your mentor whenever you receive a client inquiry during training.
 
 
 
