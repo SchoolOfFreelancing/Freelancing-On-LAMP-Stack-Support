@@ -21,7 +21,7 @@ The LAMP stack—comprising Linux, Apache, MySQL, and PHP/Perl/Python—is a wid
 
 📢 Output: Successful Participant Can Earn By Doing LAMP Stack Engineering freelancing From Home
 
-📢 Training Duration: 30 hours over one and a half months
+📢 Training Duration: 30 hours over two months training
 
 📢 Training Time: 10:00 PM (22:00) - 12:00 AM (24:00) GMT+6 [Business Days]
 
