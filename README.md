@@ -3,7 +3,7 @@
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/SchoolOfFreelancing/Freelancing-On-Linux/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/SchoolOfFreelancing/Freelancing-On-Linux/tree/main)
 
 ## Freelancing On LAMP Stack Engineering
-## AI-Powered LAMP Stack Engineer Training for Freelance Success
+## AI-Powered Hands-on LAMP Stack Engineering Training for Freelance Success
 
 Our flexible and affordable LAMP Stack Engineering training empowers individuals to achieve success as freelancers.
 
