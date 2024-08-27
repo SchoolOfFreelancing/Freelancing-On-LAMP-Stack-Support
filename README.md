@@ -60,7 +60,7 @@ Before enrolling, please ensure this training modules are aligned for level up y
 Pay using [PayPal](https://www.paypal.com/ncp/payment/J5F7BS5QZMWGJ) | [bKash](https://shop.bkash.com/school-of-freelancing018907576/pay/bdt31000/mT8noZ) | [Wise](https://www.wise.com/) 
 
 ## Training Pipeline
-[Session 01](https://docs.google.com/document/d/1a7YUcV_b3kxSz7_egMOh6e2VcM9cE0X4q8Rw7CRwNsQ/edit?usp=sharing) |
+[Session 01](https://docs.google.com/document/d/1mZPprLOzgYby80yNsWTaGS8tbAMTBKgH8YJDdI1Qxq8/edit?usp=sharing) |
 [Session 02](https://docs.google.com/document/d/1RxQ2RRDnRac60MnZEFUkenbNvyHG9sMv2IrVajtRIm4/edit?usp=sharing) |
 [Session 03](https://docs.google.com/document/d/1A9YpgJVa1AuSIRCjOW6QvdEBZzmB9HQKgPrANSsz1H8/edit?usp=sharing) |
 [Session 04](https://docs.google.com/document/d/15wrZuqa7j2YOOT6YRqwCj33IcIvYrCHktiOIP0SI_P8/edit?usp=sharing) |
