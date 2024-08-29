@@ -13,7 +13,7 @@ The LAMP stack—comprising Linux, Apache, MySQL, and PHP/Perl/Python—is a wid
 
 ## Guaranteed Minimum Income (GMI) Based On Two Conditions
 1) You need to purchase the necessary bids/connects on the freelance marketplace to apply for jobs.
-2) Committed to attending all training sessions without any absences and don't leave training due to personal issue or any technical glitches.
+2) Need to attend all training sessions regularly and don't leave training due to personal issue or any technical glitches.
 
 
 ## Features 
