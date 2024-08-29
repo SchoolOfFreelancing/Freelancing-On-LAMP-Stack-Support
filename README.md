@@ -12,8 +12,9 @@ This Freelancing on LAMP Stack Engineering training is expertly crafted to provi
 The LAMP stack—comprising Linux, Apache, MySQL, and PHP/Perl/Python—is a widely used framework for building and managing dynamic websites and web applications.
 
 ## Guaranteed Minimum Income (GMI) Based On Two Conditions
-1) You are committed to attending all training sessions regularly without any absences and will not drop out of training due to personal issues or technical glitches.
-2) You need to purchase the necessary bids/connects on the freelance marketplace to apply for jobs.
+1) You need to purchase the necessary bids/connects on the freelance marketplace to apply for jobs.
+2) You are committed to attending all training sessions regularly without any absences and will not drop out of training due to personal issues or technical glitches.
+
 
 ## Features 
 
