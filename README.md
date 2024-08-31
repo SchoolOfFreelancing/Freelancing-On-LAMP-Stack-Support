@@ -20,9 +20,9 @@ This Freelancing on LAMP Stack Engineering training is expertly crafted to provi
 
 📢 Focus: [LAMP Stack Developer](https://www.upwork.com/hire/lamp-freelancers/) 
 
-📢 Output: Successful Participant Can Earn By Doing LAMP Stack Engineering freelancing From Home
+📢 Output: Successful participants can earn by providing remote LAMP Stack Engineering support from their home.
 
-📢 Training Duration: 30 hours over two months training
+📢 Training Duration: 30 hours of training over one month
 
 📢 Training Time: 10:00 PM (22:00) - 12:00 AM (24:00) GMT+6 [Business Days]
 
