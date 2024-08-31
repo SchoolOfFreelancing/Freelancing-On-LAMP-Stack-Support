@@ -38,7 +38,7 @@ This Freelancing on LAMP Stack Engineering training is expertly crafted to provi
 
 📢 Phase: Development (localhost) training. For Production training [DigitalOcean](https://try.digitalocean.com/freetrialoffer/) and any domain require.
 
-📢 Immediate assistance: Yes, Prompt assistance is available from your mentor whenever you receive a client inquiry during training.
+📢 Immediate assistance: Receive prompt support from your mentor for any client inquiries during the training.
 
 ## Training Prerequisite
 
