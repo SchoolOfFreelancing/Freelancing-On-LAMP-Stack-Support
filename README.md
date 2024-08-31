@@ -18,7 +18,7 @@ This Freelancing on LAMP Stack Engineering training is expertly crafted to provi
 
 ## Features 
 
-📢 Focus: [LAMP Stack Engineer](https://www.upwork.com/hire/lamp-freelancers/) 
+📢 Focus: [LAMP Stack Developer](https://www.upwork.com/hire/lamp-freelancers/) 
 
 📢 Output: Successful Participant Can Earn By Doing LAMP Stack Engineering freelancing From Home
 
