@@ -30,7 +30,7 @@ This Freelancing on LAMP Stack Engineering training is expertly crafted to provi
 
 📢 Mentor: Verified Freelancer M01606319624 @ freelancers.gov.bd
 
-📢 Training Modules: Advanced modules tailored for start freelancing as [LAMP Stack Engineer](https://www.upwork.com/hire/lamp-freelancers/) 
+📢 Training Modules: Advanced modules tailored for start freelancing as [LAMP Stack Developer](https://www.upwork.com/hire/lamp-freelancers/) 
  
 📢 Target Marketplace: [Upwork](https://www.upwork.com/) | [Guru.com](https://www.guru.com/) | [Freelancer.com](https://www.freelancer.com/) 
 
