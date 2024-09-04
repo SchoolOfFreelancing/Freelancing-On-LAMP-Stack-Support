@@ -66,11 +66,11 @@ Pay using [PayPal](https://www.paypal.com/ncp/payment/J5F7BS5QZMWGJ) | [bKash](h
 [Training 03](https://docs.google.com/document/d/1A9YpgJVa1AuSIRCjOW6QvdEBZzmB9HQKgPrANSsz1H8/edit?usp=sharing) |
 [Training 04](https://docs.google.com/document/d/15wrZuqa7j2YOOT6YRqwCj33IcIvYrCHktiOIP0SI_P8/edit?usp=sharing) |
 [Training 05](https://docs.google.com/document/d/1yvnSm3bSsmBMBqimPHdh-9qBadA5Pj5zZ1qvKjU2epU/edit?usp=sharing) |
-[Training 06](https://docs.google.com/document/d/1iCH40SqEKg4MsadrEjlK2QdkZjYGSsP_EFTxDi7CPEc/edit?usp=sharing) |
-[Training 07](https://docs.google.com/document/d/1uuHGpmp01bla2fUSlblfqA9AQUJJeBAp3BL2-yESkMY/edit?usp=sharing) |
-[Training 08](https://docs.google.com/document/d/1nZn95BbcOTpgJlQNGCMWICGLdXojm3DEdG2aZOrYCxk/edit?usp=sharing) |
-[Training 09](https://docs.google.com/document/d/1qhr9CE262__1SWRIE6l3kIbiOSIU2QyGjCYjU85rLiQ/edit?usp=sharing) |
-[Training 10](https://docs.google.com/document/d/1TOfdEsGbqxzrzRc9gchotJZE0ejshFNR41QmR3iSETY/edit?usp=sharing) |
+[Training 06](https://docs.google.com/document/d/1Lfz7MrDRrgbuTc6wvI-ONaQ8kdn9e9YZ6BSFUUGB1As/edit?usp=sharing) |
+[Training 07]() |
+[Training 08]() |
+[Training 09]() |
+[Training 10]() |
 
 We recommend that trainees prioritize learning over earning until all sessions are completed. Earning requests will be addressed after completing Session 10. Trainees must complete at least one job within one month to start earning from this training 🚀
 
