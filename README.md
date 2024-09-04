@@ -68,7 +68,7 @@ Pay using [PayPal](https://www.paypal.com/ncp/payment/J5F7BS5QZMWGJ) | [bKash](h
 [Training 05](https://docs.google.com/document/d/1yvnSm3bSsmBMBqimPHdh-9qBadA5Pj5zZ1qvKjU2epU/edit?usp=sharing) |
 [Training 06](https://docs.google.com/document/d/1Lfz7MrDRrgbuTc6wvI-ONaQ8kdn9e9YZ6BSFUUGB1As/edit?usp=sharing) |
 [Training 07](https://docs.google.com/document/d/1ma7cVSCAV5IpXVwWw3y2dSCbUFwASdoZZISssCUswos/edit?usp=sharing) |
-[Training 08]() |
+[Training 08](https://docs.google.com/document/d/1WEWfzxNwF8-ZwIidqb-VuyPcnAqg-y5nLr8hqMIAcUQ/edit?usp=sharing) |
 [Training 09]() |
 [Training 10]() |
 
