@@ -71,6 +71,7 @@ Pay using [PayPal](https://www.paypal.com/ncp/payment/J5F7BS5QZMWGJ) | [bKash](h
 [Training 08](https://docs.google.com/document/d/1WEWfzxNwF8-ZwIidqb-VuyPcnAqg-y5nLr8hqMIAcUQ/edit?usp=sharing) |
 [Training 09](https://docs.google.com/document/d/1ZSjTAdqflOkjbkrtmNCSgYDLN11-C_SNymW9KMRwu8s/edit?usp=sharing) |
 [Training 10](https://docs.google.com/document/d/14Q9RUtjGyfNoardASiqYHdbK7UiwqWpbAUORQJp9caM/edit?usp=sharing) |
+[Training 11](https://docs.google.com/document/d/1BXNdeKYwCd04Aq82xmqBCdwhh93jvKQr2goz715SF6U/edit?usp=sharing) |
 
 We recommend that trainees prioritize learning over earning until all sessions are completed. Earning requests will be addressed after completing Session 10. Trainees must complete at least one job within one month to start earning from this training 🚀
 
