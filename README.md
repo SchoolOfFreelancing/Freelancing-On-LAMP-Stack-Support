@@ -34,8 +34,6 @@ This Freelancing on LAMP Stack Engineering training is expertly crafted to provi
  
 📢 Target Marketplace: [Upwork](https://www.upwork.com/) | [Guru.com](https://www.guru.com/) | [Freelancer.com](https://www.freelancer.com/) 
 
-📢 Track Trainee : [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
-
 📢 Phase: Development (localhost) training. For Production training [DigitalOcean](https://try.digitalocean.com/freetrialoffer/) and any domain require.
 
 📢 Immediate assistance: Receive prompt support from your mentor for any client inquiries during the training.
