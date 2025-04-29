@@ -3,7 +3,6 @@
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/SchoolOfFreelancing/Freelancing-On-LAMP-Stack/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/SchoolOfFreelancing/Freelancing-On-LAMP-Stack/tree/main)
 
 ## Freelancing on LAMP Stack Support
-## AI-Powered Hands-on LAMP Stack Training 
 
 This flexible and affordable LAMP Stack Engineering training empowers individuals to achieve freelance success with confidence.
 
@@ -26,7 +25,7 @@ This Freelancing on LAMP Stack Engineering training is expertly crafted to provi
 
 📢 Training Time: 10:00 PM (22:00) - 12:00 AM (24:00) GMT+6 [Business Days]
 
-📢 Participation Fee: 199$ USD
+📢 Participation Fee: 100$ USD
 
 📢 Mentor: Verified Freelancer M01606319624 @ freelancers.gov.bd
 
