@@ -56,7 +56,7 @@ This Freelancing on LAMP Stack Engineering training is expertly crafted to provi
 
 Before enrolling, please ensure this training modules are aligned for level up your freelancing skill and you are ready to enroll this training from home 🏠
 
-Pay using [PayPal](https://www.paypal.com/ncp/payment/J5F7BS5QZMWGJ) | [bKash](https://shop.bkash.com/school-of-freelancing018907576/pay/bdt31000/mT8noZ) | [Wise](https://www.wise.com/) 
+[bKash](https://shop.bkash.com/school-of-freelancing018907576/pay/bdt31000/mT8noZ) | [Wise](https://www.wise.com/) 
 
 ## Training Pipeline
 [Training 01](https://docs.google.com/document/d/1mZPprLOzgYby80yNsWTaGS8tbAMTBKgH8YJDdI1Qxq8/edit?usp=sharing) |
